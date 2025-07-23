@@ -1,2 +1,2 @@
 # app-ecomm-api
-ecommerce application api
+ecommerce application api repo
